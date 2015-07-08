@@ -260,6 +260,7 @@ case $1 in
 		build $2
 		;;
 	*)
+		echo "test"
 		print_help
 		;;
 esac
