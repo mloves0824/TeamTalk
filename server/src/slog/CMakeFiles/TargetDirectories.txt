@@ -1,0 +1,1 @@
+/home/messi/workspace/git/TeamTalk/server/src/slog/CMakeFiles/slog.dir
