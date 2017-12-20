@@ -1,0 +1,2 @@
+log4cxx: No appender could be found for logger (IM).
+log4cxx: Please initialize the log4cxx system properly.

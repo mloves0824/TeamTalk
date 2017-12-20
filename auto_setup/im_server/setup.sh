@@ -70,9 +70,9 @@ clean_yum() {
 build_im_server() {
 
 	#yum -y install yum-fastestmirror
-	clean_yum
-	yum -y install libuuid-devel
-	yum -y install apr-util-devel
+	#clean_yum
+	#yum -y install libuuid-devel
+	#yum -y install apr-util-devel
 	mkdir -p $INSTALL_DIR
 	tar zxvf $IM_SERVER.tar.gz -C $INSTALL_DIR/
 	if [ $? -eq 0 ]; then
@@ -134,7 +134,7 @@ case $1 in
 		;;
 	install)
 		print_hello $1
-		check_user
+		#check_user
 		check_os
 
 		build_im_server

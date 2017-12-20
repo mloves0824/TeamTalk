@@ -1,0 +1,24 @@
+2017-12-15 13:05:25,049 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2017-12-15 13:05:25,049 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2017-12-15 13:05:25,049 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2017-12-15 13:05:25,049 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2017-12-15 13:05:25,050 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2017-12-15 13:05:25,119 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Host '139.199.161.198' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts'
+2017-12-15 13:05:25,119 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2017-12-15 13:05:25,119 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed
+2017-12-15 13:05:54,932 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2017-12-15 13:05:54,932 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2017-12-15 13:05:54,932 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2017-12-15 13:05:54,932 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2017-12-15 13:05:54,932 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2017-12-15 13:05:56,389 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Host '139.199.161.198' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts'
+2017-12-15 13:05:56,389 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2017-12-15 13:05:59,558 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed
+2017-12-15 13:07:36,856 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: unread, list size: 2
+2017-12-15 13:07:49,321 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_set, list size: 2
+2017-12-15 13:07:55,118 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: token, list size: 2
+2017-12-15 13:08:00,786 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: sync, list size: 2
+2017-12-15 13:08:03,919 [INFO  IM] - <CachePool.cpp>|<597>|<Init>,cache pool: group_member, list size: 2
+2017-12-15 13:08:08,312 [INFO  IM] - <DBPool.cpp>|<234>|<Init>,mysql_real_connect failed: Host '139.199.161.198' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts'
+2017-12-15 13:08:08,312 [INFO  IM] - <DBPool.cpp>|<464>|<Init>,init db instance failed: teamtalk_master
+2017-12-15 13:08:10,420 [INFO  IM] - <db_proxy_server.cpp>|<61>|<main>,DBManager init failed

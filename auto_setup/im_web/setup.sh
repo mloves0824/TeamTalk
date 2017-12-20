@@ -46,7 +46,8 @@ build_web(){
 	if [ -d $PHP_WEB ]; then
 		echo "$PHP_WEB has existed."
 	else
-		unzip $PHP_WEB.zip
+		#unzip $PHP_WEB.zip
+		tar xvzf $PHP_WEB.tar.gz
 		if [ $? -eq 0 ]; then
 			echo "unzip $PHP_WEB successed."
 		else
