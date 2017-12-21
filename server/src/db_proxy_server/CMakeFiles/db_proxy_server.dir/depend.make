@@ -661,6 +661,7 @@ CMakeFiles/db_proxy_server.dir/business/InterLogin.cpp.o: /home/messi/workspace/
 CMakeFiles/db_proxy_server.dir/business/InterLogin.cpp.o: /home/messi/workspace/git/TeamTalk/server/src/base/slog/slog_api.h
 CMakeFiles/db_proxy_server.dir/business/InterLogin.cpp.o: /home/messi/workspace/git/TeamTalk/server/src/base/util.h
 CMakeFiles/db_proxy_server.dir/business/InterLogin.cpp.o: DBPool.h
+CMakeFiles/db_proxy_server.dir/business/InterLogin.cpp.o: business/Common.h
 CMakeFiles/db_proxy_server.dir/business/InterLogin.cpp.o: business/InterLogin.cpp
 CMakeFiles/db_proxy_server.dir/business/InterLogin.cpp.o: business/InterLogin.h
 CMakeFiles/db_proxy_server.dir/business/InterLogin.cpp.o: business/LoginStrategy.h

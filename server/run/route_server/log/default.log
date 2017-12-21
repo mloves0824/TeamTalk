@@ -1,0 +1,29 @@
+2017-12-20 23:16:45,390 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 0.0.0.0:8200
+2017-12-20 23:21:41,593 [INFO  IM] - <RouteConn.cpp>|<263>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2017-12-20 23:21:41,593 [INFO  IM] - <RouteConn.cpp>|<166>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2017-12-20 23:26:09,972 [INFO  IM] - <RouteConn.cpp>|<103>|<OnClose>,MsgServer onclose: handle=7 
+2017-12-20 23:29:02,455 [INFO  IM] - <RouteConn.cpp>|<263>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2017-12-20 23:29:02,455 [INFO  IM] - <RouteConn.cpp>|<166>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2017-12-20 23:33:57,987 [INFO  IM] - <RouteConn.cpp>|<103>|<OnClose>,MsgServer onclose: handle=7 
+2017-12-20 23:36:24,905 [INFO  IM] - <RouteConn.cpp>|<263>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2017-12-20 23:36:24,906 [INFO  IM] - <RouteConn.cpp>|<166>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2017-12-20 23:43:19,223 [INFO  IM] - <RouteConn.cpp>|<103>|<OnClose>,MsgServer onclose: handle=7 
+2017-12-20 23:43:20,515 [INFO  IM] - <RouteConn.cpp>|<263>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2017-12-20 23:43:20,515 [INFO  IM] - <RouteConn.cpp>|<166>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2017-12-21 00:02:07,581 [INFO  IM] - <RouteConn.cpp>|<103>|<OnClose>,MsgServer onclose: handle=7 
+2017-12-21 00:02:08,148 [INFO  IM] - <RouteConn.cpp>|<263>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2017-12-21 00:02:08,148 [INFO  IM] - <RouteConn.cpp>|<166>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2017-12-21 00:04:34,349 [INFO  IM] - <RouteConn.cpp>|<103>|<OnClose>,MsgServer onclose: handle=7 
+2017-12-21 00:07:11,526 [INFO  IM] - <RouteConn.cpp>|<263>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2017-12-21 00:07:11,527 [INFO  IM] - <RouteConn.cpp>|<166>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2017-12-21 00:07:48,968 [INFO  IM] - <RouteConn.cpp>|<103>|<OnClose>,MsgServer onclose: handle=7 
+2017-12-21 00:10:29,120 [INFO  IM] - <RouteConn.cpp>|<263>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2017-12-21 00:10:29,120 [INFO  IM] - <RouteConn.cpp>|<166>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2017-12-21 00:13:08,101 [INFO  IM] - <RouteConn.cpp>|<103>|<OnClose>,MsgServer onclose: handle=7 
+2017-12-21 00:13:09,071 [INFO  IM] - <RouteConn.cpp>|<263>|<_HandleRoleSet>,HandleRoleSet, master=1, handle=7 
+2017-12-21 00:13:09,071 [INFO  IM] - <RouteConn.cpp>|<166>|<_HandleOnlineUserInfo>,HandleOnlineUserInfo, user_cnt=0 
+2017-12-21 00:13:14,983 [INFO  IM] - <RouteConn.cpp>|<182>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=1, uid=1, client_type=1 
+2017-12-21 00:13:15,192 [INFO  IM] - <RouteConn.cpp>|<278>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=1, query_count=1 
+2017-12-21 00:13:15,192 [INFO  IM] - <RouteConn.cpp>|<278>|<_HandleUsersStatusRequest>,HandleUserStatusReq, req_id=1, query_count=1 
+2017-12-21 00:20:42,131 [INFO  IM] - <RouteConn.cpp>|<182>|<_HandleUserStatusUpdate>,HandleUserStatusUpdate, status=2, uid=1, client_type=1 
+2017-12-21 00:36:01,348 [INFO  IM] - <RouteConn.cpp>|<103>|<OnClose>,MsgServer onclose: handle=7 

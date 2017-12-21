@@ -1,0 +1,124 @@
+2017-12-20 10:20:45,740 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 0.0.0.0:8100
+2017-12-20 10:20:45,740 [INFO  IM] - <BaseSocket.cpp>|<81>|<Listen>,CBaseSocket::Listen on 0.0.0.0:8601
+2017-12-20 10:20:47,479 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=8000, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 10:21:00,703 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 10:22:05,093 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 10:22:11,168 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 10:31:27,648 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:8000 
+2017-12-20 10:38:01,836 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 10:38:03,095 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 10:38:09,131 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 10:38:18,086 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 10:38:40,702 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 10:39:29,878 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 10:40:52,270 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 10:40:55,564 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 10:40:56,457 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 10:52:28,200 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 10:53:39,964 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 11:22:55,939 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 11:23:10,354 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 11:23:20,901 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 11:23:36,795 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 11:23:48,066 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 11:24:49,608 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 11:25:29,910 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 11:28:11,374 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 11:28:43,313 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 11:29:35,696 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 11:30:00,042 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 11:34:07,844 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 13:10:56,526 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 13:11:18,259 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 13:11:22,650 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 13:11:42,305 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 13:13:18,143 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 13:14:11,129 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 13:14:15,360 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 13:14:48,839 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 13:17:45,373 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 13:18:18,782 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=8602, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 13:19:20,476 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 13:20:25,471 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:8602 
+2017-12-20 15:22:39,015 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=8602, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 15:22:54,130 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 15:23:04,423 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:8602 
+2017-12-20 15:25:52,789 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 15:26:21,080 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 15:31:18,564 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 15:32:09,088 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 15:32:26,095 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 15:32:29,449 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 15:33:31,741 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 15:33:33,073 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 15:33:37,476 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 15:44:37,615 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 15:47:55,015 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 15:50:47,182 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 15:50:59,248 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 15:52:30,320 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 15:52:31,064 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 16:09:48,555 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 16:09:51,382 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 16:16:26,404 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 16:16:46,077 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 16:24:35,954 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 23:08:44,374 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:08:46,322 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:09:25,085 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 23:09:28,362 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:10:31,131 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:10:53,365 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:11:58,818 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:12:00,664 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:12:31,418 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:14:48,594 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 23:21:41,593 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 23:21:54,246 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:22:00,313 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:22:02,052 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:22:03,296 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:22:42,555 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:22:47,342 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:24:06,280 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:26:09,972 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 23:29:02,455 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 23:29:13,901 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:29:50,702 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:33:50,306 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:33:52,143 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:33:57,987 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 23:36:24,905 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 23:36:30,981 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:36:32,403 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:36:55,716 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:43:13,879 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:43:15,321 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:43:16,367 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:43:19,223 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-20 23:43:20,515 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-20 23:43:23,126 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:43:25,184 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:43:42,989 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:49:41,597 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:49:43,594 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:49:44,565 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:50:05,300 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:55:44,136 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:56:05,971 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-20 23:56:07,258 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-21 00:02:07,581 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-21 00:02:08,148 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-21 00:02:16,685 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-21 00:04:34,349 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-21 00:07:11,526 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-21 00:07:28,000 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-21 00:07:48,968 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-21 00:10:29,120 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-21 00:11:11,479 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-21 00:13:08,101 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 
+2017-12-21 00:13:09,071 [INFO  IM] - <LoginConn.cpp>|<162>|<_HandleMsgServInfo>,MsgServInfo, ip_addr1=localhost, ip_addr2=localhost, port=80, max_conn_cnt=100000, cur_conn_cnt=0, hostname: VM_166_13_centos. 
+2017-12-21 00:13:14,835 [INFO  IM] - <HttpConn.cpp>|<314>|<OnWriteComlete>,write complete 
+2017-12-21 00:13:14,990 [INFO  IM] - <LoginConn.cpp>|<183>|<_HandleUserCntUpdate>,VM_166_13_centos:80, cur_cnt=1, total_cnt=1 
+2017-12-21 00:20:42,131 [INFO  IM] - <LoginConn.cpp>|<183>|<_HandleUserCntUpdate>,VM_166_13_centos:80, cur_cnt=0, total_cnt=0 
+2017-12-21 00:36:01,348 [INFO  IM] - <LoginConn.cpp>|<68>|<Close>,onclose from MsgServer: VM_166_13_centos:80 

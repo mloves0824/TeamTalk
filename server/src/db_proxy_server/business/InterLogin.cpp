@@ -11,16 +11,20 @@
 #include "InterLogin.h"
 #include "../DBPool.h"
 #include "EncDec.h"
+#include "Common.h"
 
 bool CInterLoginStrategy::doLogin(const std::string &strName, const std::string &strPass, IM::BaseDefine::UserInfo& user)
 {
     bool bRet = false;
-    
+
+    log("strPass=%s", strPass.c_str());    
+
     CDBManager* pDBManger = CDBManager::getInstance();
-    CDBConn* pDBConn = pDBManger->GetDBConn("teamtalk_slave");
+    CDBConn* pDBConn = pDBManger->GetDBConn("teamtalk_master");
     if (pDBConn) {
         string strSql = "select * from IMUser where name='" + strName + "' and status=0";
         CResultSet* pResultSet = pDBConn->ExecuteQuery(strSql.c_str());
+	log("pResultSet=%d", pResultSet);
         if(pResultSet)
         {
             string strResult, strSalt;
@@ -41,10 +45,12 @@ bool CInterLoginStrategy::doLogin(const std::string &strName, const std::string 
                 nDeptId = pResultSet->GetInt("departId");
                 nStatus = pResultSet->GetInt("status");
             }
-            string strInPass = strPass + strSalt;
+            string strInPass = strPass;// + strSalt;
+	    //log("strPass=%s, strSalt=%s, strInPass=%s", strPass.c_str(),strSalt.c_str(),strInPass.c_str());
             char szMd5[33];
             CMd5::MD5_Calculate(strInPass.c_str(), strInPass.length(), szMd5);
             string strOutPass(szMd5);
+            log("strPass=%s, strSalt=%s, strInPass=%s, strOutPass=%s, strResult=%s", strPass.c_str(),strSalt.c_str(),strInPass.c_str(), strOutPass.c_str(), strResult.c_str());
             if(strOutPass == strResult)
             {
                 bRet = true;

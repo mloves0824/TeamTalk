@@ -22,6 +22,7 @@
 #include "IM.SwitchService.pb.h"
 #include "public_define.h"
 #include "ImPduBase.h"
+#include <iostream>
 using namespace IM::BaseDefine;
 
 #define TIMEOUT_WATI_LOGIN_RESPONSE		15000	// 15 seconds
@@ -207,6 +208,12 @@ void CMsgConn::OnConnect(net_handle_t handle)
 {
 	m_handle = handle;
 	m_login_time = get_tick_count();
+	
+	std::cout << "onconnect" << std::endl;
+
+
+
+
 
 	g_msg_conn_map.insert(make_pair(handle, this));
 
